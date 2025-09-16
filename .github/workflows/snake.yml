@@ -1,9 +1,15 @@
 name: Generate Snake
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -22,5 +28,5 @@ jobs:
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: 🐍 generate snake animation
-          add: "dist/*"
+          message: "🐍 generate snake animation"
+          add: "dist/**"
