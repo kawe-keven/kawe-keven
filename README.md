@@ -26,8 +26,8 @@
 
 <div align="center">
 <picture align="center">
-  <source media="(prefers-color-scheme: transparent)" srcset="https://raw.githubusercontent.com/kawe-keven/kawe-keven/output/github-contribution-grid-snake-transparent.svg">
-  <source media="(prefers-color-scheme: transparent)" srcset="https://raw.githubusercontent.com/kawe-keven/kawe-keven/output/github-contribution-grid-snake-transparent.svg">
+  <source media="(prefers-color-scheme: transparent)" srcset="https://raw.githubusercontent.com/kawe-keven/kawe-keven/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: transparent)" srcset="https://raw.githubusercontent.com/kawe-keven/kawe-keven/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kawe-keven/kawe-keven/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
