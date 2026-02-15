@@ -12,7 +12,7 @@
 
 ##
 
-![GitHubCard].(https://githubcard.com/kawe-keven.svg?d=k2ExKeu3 -3s).
+![GitHubCard](https://githubcard.com/kawe-keven.svg)
 
 ##
 
