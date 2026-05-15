@@ -1,6 +1,4 @@
-## Olá eu sou Keven, estudante de ads
-DEV Junior
-##
+## Olá eu sou Keven
 
 
 <div style="display: inline_block"><br>
